@@ -1,5 +1,5 @@
 # Fast-and-robust-seam-estimation
-
+Note: code not optimized
 % Matlab code and data to reproduce results from the paper                  %
 % "Fast and robust seam estimation to seamless image stitching"             %
 % Hadi HejazifarHassan Khotanlou  										                    	%
